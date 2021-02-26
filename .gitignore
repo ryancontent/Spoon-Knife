@@ -1,0 +1,5 @@
+venv
+.vscode
+googleapikey.json
+spotifykeys.json
+youtube_liked_songs.csv
